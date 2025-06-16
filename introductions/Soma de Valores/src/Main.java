@@ -15,6 +15,7 @@ public class Main {
         double valor2;
 
         double soma;
+
         System.out.println("Digite o primeiro valor: ");
         valor1 = Double.parseDouble(scanner.nextLine().trim());
 
